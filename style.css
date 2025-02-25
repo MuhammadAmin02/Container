@@ -1,0 +1,109 @@
+body{
+    background-color: red;
+}
+.fan p{
+    text-align: center;
+    font-size: 50px;
+}
+span{
+    color: yellow;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 300px;
+    /* width: 1500px; */
+}
+.qwe h1{
+    text-align: center;
+    color: white;
+}
+.qwe p{
+    text-align: center;
+    color: white;
+   
+}
+.qwe{
+   
+    background-color: black;
+}
+main div{
+    height: 350px;
+    width: 300px;
+}
+.rty{
+
+    background-color: black;
+}
+.rty h1{
+    text-align: center;
+    color: white;
+}
+.rty p{
+    text-align: center;
+    color: white;
+}
+.uio{
+
+    background-color: black;
+}
+.uio h1{
+    text-align: center;
+    color: white;
+}
+.uio p{
+    text-align: center;
+    color: white;
+    
+}
+.pas h1{
+    text-align: center;
+    color: white;
+}
+.pas p{
+    text-align: center;
+    color: white;
+}
+.pas{
+    /* margin-top: 50px; */
+    background-color: black;
+    /* margin-right: 75px; */
+}
+.dfg h1{
+    text-align: center;
+    color: white;
+}
+.dfg p{
+    text-align: center;
+    color: white;
+}
+.dfg{
+    /* margin-top: 50px; */
+    background-color: black; 
+}
+.hjk h1{
+    text-align: center;
+    color: white; 
+}
+.hjk p{
+    text-align: center;
+    color: white;
+}
+.hjk{
+    /* margin-top: 50px; */
+    background-color: black;
+}
+  .container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+    margin: 0 auto;
+
+  }
